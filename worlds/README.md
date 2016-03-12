@@ -13,4 +13,4 @@ Select <strong>Resource Packs</strong>
 
 Select <strong>Open Resource Packs Folder</strong>
 
-This will open a File Manager or Finder window for a folder named <strong>resourcepacks</strong> - go up one level and you will see the <strong>saves</strong> folder in the containing folder (<strong>minecraft<M/strong>). This is where you want to put the unzipped world folder - move the whole thing over. Now relaunch Minecraft, select <strong>Single Player</strong> and you should see the name of your world appear in the list for you to choose.
+This will open a File Manager or Finder window for a folder named <strong>resourcepacks</strong> - go up one level and you will see the <strong>saves</strong> folder in the containing folder (<strong>minecraft</strong>). This is where you want to put the unzipped world folder - move the whole thing over. Now relaunch Minecraft, select <strong>Single Player</strong> and you should see the name of your world appear in the list for you to choose.
