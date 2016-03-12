@@ -1,1 +1,1 @@
-A few pictures of Exeter Library in case anybody wanted to do some modelling of that area in the Minecraft world. Note that I do not own any of these imaes; they have been found through Google searches and may be under copyright.
+A few pictures of Exeter Library in case anybody wanted to do some modelling of that area in the Minecraft world. Note that I do not own any of these images; they have been found through Google searches and may be under copyright.
