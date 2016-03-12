@@ -1,8 +1,8 @@
 # minecraft-discovery
-Storage of assets and scripts for Minecraft Discovery Day 12th March 2016
+###Storage of assets and scripts for Minecraft Discovery Day 12th March 2016
 
-IMPORTANT - LICENSE AND PERMISSIONS
+####Minecraft worlds
+We'll be working on generating worlds based on the poistcodes you've submitted, and when they're ready they will be placed in the <strong>worlds</strong> folder. You can also take a look the Ordnance Survey Minecraft map of Britain here:
+https://www.ordnancesurvey.co.uk/innovate/developers/minecraft-map-britain.html and the British Geological Survey map here: http://www.bgs.ac.uk/discoveringGeology/geologyOfBritain/minecraft/home.html#/6232/64/22413/-11/0/0.
 
-Any scripts in this repository are free to reuse, modify and share.
 
-Any IMAGES stored in here have been temporarily borrowed for the day to assist in modelling real life buildings and landscapes in Minecraft. These images do not belong to me; they have been discovered and collated via Google search and may be under copyright.
