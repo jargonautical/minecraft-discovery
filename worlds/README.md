@@ -13,7 +13,9 @@ Select <strong>Resource Packs</strong>
 
 Select <strong>Open Resource Packs Folder</strong>
 
-This will open a File Manager or Finder window for a folder named <strong>resourcepacks</strong> - go up one level and you will see the <strong>saves</strong> folder in the containing folder (<strong>minecraft</strong>). This is where you want to put the unzipped world folder - move the whole thing over. Now relaunch Minecraft, select <strong>Single Player</strong> and you should see the name of your world appear in the list for you to choose.
+This will open a File Manager or Finder window for a folder named <strong>resourcepacks</strong> - go up one level and you will see the <strong>saves</strong> folder in the containing folder (<strong>minecraft</strong>). This is where you want to put the unzipped world folder - move the whole thing over. Now relaunch Minecraft, select <strong>Single Player</strong> and you should see the name of your world appear in the list for you to choose. Each one opens in Creative mode so you can fly over it and check out the landscape.
+
+One or two of the worlds have generated using a very high elevation, so that when you open the world to play its all you can see is the bare bedrock base world - this is because everything else is above you. If that happens don’t worry - just hit ’<strong>t</strong>’ on your keyboard and type this command to teleport yourself up: <strong>/tp 0 300 0</strong>
 
 ####Contact
 If you're not sure what to do with the files you get, or if you're not happy with them, let us know and we can try again with the same postcode (in case of glitches in the script) or with a different postcode if you want to try somewhere else.
